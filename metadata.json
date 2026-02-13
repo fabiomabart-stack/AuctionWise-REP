@@ -1,0 +1,7 @@
+{
+  "name": "AuctionWise - Real Estate Investment Analyst",
+  "description": "A sophisticated tool for real estate auction investors to extract data from auction notices (PDFs), calculate acquisition costs, simulate renovation scenarios, and estimate ROI for property flipping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
